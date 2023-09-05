@@ -17,7 +17,7 @@
     "express-requests-logger": "^4.0.0",
     "js-yaml": "^4.1.0",
     "redis": "^4.6.6",
-    "superagent": "^8.0.9"
+    "superagent": "^8.1.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
